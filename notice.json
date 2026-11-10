@@ -1,6 +1,32 @@
 {
  "notices": [
   {
+   "id": "2026-11-v121",
+   "date": "2026-11-10",
+   "title": {
+    "en": "1.2.1: Halal pack + Quick bar 🕌",
+    "ja": "1.2.1:ハラールパック＋クイックバー 🕌",
+    "zh-Hant": "1.2.1:清真主題包＋快速列 🕌",
+    "es": "1.2.1: pack halal + barra rápida 🕌",
+    "pt-BR": "1.2.1: pacote halal + barra rápida 🕌",
+    "id": "1.2.1: Paket Halal + Bilah Cepat 🕌",
+    "ms": "1.2.1: Pek Halal + Bar Pantas 🕌",
+    "th": "1.2.1: แพ็กฮาลาล + แถบด่วน 🕌",
+    "vi": "1.2.1: Gói Halal + Thanh nhanh 🕌"
+   },
+   "body": {
+    "en": "New pack for Muslim travelers: ask about pork, lard, gelatin and broth, find a prayer room, and decline a drink politely. And the home screen now has a Quick bar: the 10 lines you say at a counter, one tap to play, hold to open.",
+    "ja": "ムスリム旅行者向けの新パック:豚肉・ラード・ゼラチン・出汁の確認、祈祷室の場所、お酒の丁寧な断り方。ホーム画面にはクイックバーが追加され、カウンターで使う10フレーズをタップで再生、長押しで開けます。",
+    "zh-Hant": "穆斯林旅客的新主題包:詢問豬肉、豬油、明膠和湯底,找祈禱室,禮貌地婉拒喝酒。首頁新增快速列:櫃檯最常說的10句,點一下播放、長按開啟。",
+    "es": "Nuevo pack para viajeros musulmanes: pregunta por cerdo, manteca, gelatina y caldo, encuentra una sala de oración y rechaza una copa con educación. Y la pantalla de inicio tiene una barra rápida: las 10 frases del mostrador, un toque para oír, mantén para abrir.",
+    "pt-BR": "Novo pacote para viajantes muçulmanos: pergunte sobre porco, banha, gelatina e caldo, encontre uma sala de oração e recuse uma bebida com educação. E a tela inicial ganhou uma barra rápida: as 10 frases do balcão, um toque para ouvir, segure para abrir.",
+    "id": "Paket baru untuk wisatawan Muslim: tanyakan babi, lemak babi, gelatin dan kaldu, cari musala, dan tolak minuman dengan sopan. Layar utama kini punya Bilah Cepat: 10 kalimat di kasir, ketuk untuk putar, tahan untuk buka.",
+    "ms": "Pek baharu untuk pengembara Muslim: tanya tentang babi, lemak babi, gelatin dan kuah, cari surau, dan tolak minuman dengan sopan. Skrin utama kini ada Bar Pantas: 10 ayat di kaunter, ketik untuk main, tahan untuk buka.",
+    "th": "แพ็กใหม่สำหรับนักเดินทางมุสลิม: ถามเรื่องหมู น้ำมันหมู เจลาตินและน้ำซุป หาห้องละหมาด และปฏิเสธเครื่องดื่มอย่างสุภาพ หน้าแรกมีแถบด่วนแล้ว: 10 ประโยคที่พูดหน้าเคาน์เตอร์ แตะเพื่อฟัง กดค้างเพื่อเปิด",
+    "vi": "Gói mới cho du khách Hồi giáo: hỏi về thịt heo, mỡ heo, gelatin và nước dùng, tìm phòng cầu nguyện, từ chối rượu lịch sự. Màn hình chính có Thanh nhanh: 10 câu nói ở quầy, chạm để nghe, giữ để mở."
+   }
+  },
+  {
    "id": "2026-10-v120",
    "date": "2026-10-15",
    "title": {

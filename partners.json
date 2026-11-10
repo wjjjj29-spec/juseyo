@@ -1,0 +1,82 @@
+{
+ "updated": "2026-11-09",
+ "partners": [
+  {
+   "id": "klook_esim",
+   "slot": "dday",
+   "title_en": "Get a Korea eSIM",
+   "sub_en": "Data from the moment you land. Compare plans on Klook.",
+   "url": "https://www.klook.com/en-US/search/result/?query=korea%20esim&aid=137144"
+  },
+  {
+   "id": "klook_tmoney",
+   "slot": "dday",
+   "title_en": "T-money or WOWPASS card",
+   "sub_en": "Tap through subway gates and buses from day one.",
+   "url": "https://www.klook.com/en-US/search/result/?query=tmoney&aid=137144"
+  },
+  {
+   "id": "klook_airport_dday",
+   "slot": "dday",
+   "title_en": "Airport to Seoul, sorted",
+   "sub_en": "AREX train, limousine bus or a private transfer.",
+   "url": "https://www.klook.com/en-US/search/result/?query=incheon%20airport%20transfer&aid=137144"
+  },
+  {
+   "id": "trip_stay_dday",
+   "slot": "dday",
+   "title_en": "Still need a place to stay?",
+   "sub_en": "Seoul hotels on Trip.com, prices in your currency.",
+   "url": "https://www.trip.com/hotels/seoul-hotels-list-274/?Allianceid=10984688&SID=333206686&trip_sub1=juseyo_dday"
+  },
+  {
+   "id": "klook_arex",
+   "slot": "airport",
+   "title_en": "AREX Airport Express",
+   "sub_en": "Incheon to Seoul Station in about 45 minutes.",
+   "url": "https://www.klook.com/en-US/search/result/?query=arex&aid=137144"
+  },
+  {
+   "id": "klook_airport_transfer",
+   "slot": "airport",
+   "title_en": "Skip the taxi line",
+   "sub_en": "Limousine bus tickets and private airport transfers.",
+   "url": "https://www.klook.com/en-US/search/result/?query=incheon%20airport%20transfer&aid=137144"
+  },
+  {
+   "id": "klook_esim_airport",
+   "slot": "airport",
+   "title_en": "Landed without data?",
+   "sub_en": "Korea eSIMs and SIM cards, some with T-money included.",
+   "url": "https://www.klook.com/en-US/search/result/?query=korea%20esim&aid=137144"
+  },
+  {
+   "id": "klook_tmoney_transit",
+   "slot": "transit",
+   "title_en": "Get a T-money card",
+   "sub_en": "One card for the subway, buses and convenience stores.",
+   "url": "https://www.klook.com/en-US/search/result/?query=tmoney&aid=137144"
+  },
+  {
+   "id": "trip_stay",
+   "slot": "stay",
+   "title_en": "Find a room in Seoul",
+   "sub_en": "Compare Seoul hotels on Trip.com.",
+   "url": "https://www.trip.com/hotels/seoul-hotels-list-274/?Allianceid=10984688&SID=333206686&trip_sub1=juseyo_stay"
+  },
+  {
+   "id": "klook_hanbok",
+   "slot": "hanbok",
+   "title_en": "Rent a hanbok",
+   "sub_en": "Wear it to Gyeongbokgung Palace, entry is free in hanbok.",
+   "url": "https://www.klook.com/en-US/search/result/?query=hanbok%20rental&aid=137144"
+  },
+  {
+   "id": "klook_jeju",
+   "slot": "jeju",
+   "title_en": "Jeju day tours",
+   "sub_en": "UNESCO sites, haenyeo divers and tangerine farms.",
+   "url": "https://www.klook.com/en-US/search/result/?query=jeju&aid=137144"
+  }
+ ]
+}
