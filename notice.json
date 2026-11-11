@@ -1,6 +1,32 @@
 {
  "notices": [
   {
+   "id": "2026-11-v130",
+   "date": "2026-11-11",
+   "title": {
+    "en": "1.3: Your name in Korean ✍️",
+    "ja": "1.3:あなたの名前を韓国語で ✍️",
+    "zh-Hant": "1.3:你的韓文名字 ✍️",
+    "es": "1.3: Tu nombre en coreano ✍️",
+    "pt-BR": "1.3: Seu nome em coreano ✍️",
+    "id": "1.3: Namamu dalam bahasa Korea ✍️",
+    "ms": "1.3: Nama anda dalam bahasa Korea ✍️",
+    "th": "1.3: ชื่อของคุณเป็นภาษาเกาหลี ✍️",
+    "vi": "1.3: Tên bạn bằng tiếng Hàn ✍️"
+   },
+   "body": {
+    "en": "Type your name and see it in Hangul, hear how it sounds, and share the card. Also new and free: Korea explained, 13 cards on the little things that confuse everyone on day one (the table button, scissors, self-serve water, no tipping). And you can now pick your exact travel date for the countdown.",
+    "ja": "名前を入力するとハングルで表示、発音も聞けて、カードをシェアできます。さらに無料の新機能「Korea explained」:テーブルの呼び出しボタン、ハサミ、セルフの水、チップ不要など、初日に誰もが戸惑うことを13枚のカードで。旅行日もカレンダーで選べるようになりました。",
+    "zh-Hant": "輸入名字就能看到韓文寫法、聽發音,還能分享名字卡。另外免費新功能「Korea explained」:13 張卡片說明第一天人人都困惑的小事(桌上呼叫鈴、剪刀、自助飲水、不用給小費)。出發日期也能直接在日曆上選了。",
+    "es": "Escribe tu nombre y míralo en hangul, escucha cómo suena y comparte la tarjeta. También nuevo y gratis: Corea explicada, 13 tarjetas sobre lo que confunde a todos el primer día (el botón de la mesa, las tijeras, el agua de autoservicio, sin propinas). Y ya puedes elegir la fecha exacta de tu viaje.",
+    "pt-BR": "Digite seu nome e veja em hangul, ouça como soa e compartilhe o cartão. Também novo e grátis: Coreia explicada, 13 cartões sobre o que confunde todo mundo no primeiro dia (o botão da mesa, a tesoura, a água self-service, sem gorjeta). E agora você pode escolher a data exata da viagem.",
+    "id": "Ketik namamu dan lihat dalam hangul, dengarkan cara bacanya, lalu bagikan kartunya. Baru dan gratis juga: Korea dijelaskan, 13 kartu tentang hal kecil yang membingungkan semua orang di hari pertama (tombol di meja, gunting, air swalayan, tanpa tip). Sekarang kamu juga bisa memilih tanggal perjalanan yang tepat.",
+    "ms": "Taip nama anda dan lihat dalam hangul, dengar sebutannya, dan kongsi kadnya. Baharu dan percuma juga: Korea dijelaskan, 13 kad tentang perkara kecil yang mengelirukan semua orang pada hari pertama (butang di meja, gunting, air layan diri, tiada tip). Kini anda juga boleh memilih tarikh perjalanan yang tepat.",
+    "th": "พิมพ์ชื่อของคุณแล้วดูเป็นอักษรฮันกึล ฟังเสียงอ่าน และแชร์การ์ดได้ ใหม่และฟรีด้วย: Korea explained การ์ด 13 ใบเรื่องเล็กๆ ที่ทุกคนงงในวันแรก (ปุ่มเรียกบนโต๊ะ กรรไกร น้ำบริการตัวเอง ไม่ต้องให้ทิป) และตอนนี้เลือกวันเดินทางจริงบนปฏิทินได้แล้ว",
+    "vi": "Nhập tên bạn để xem bằng chữ Hangul, nghe cách đọc và chia sẻ thẻ tên. Mới và miễn phí: Giải thích về Hàn Quốc, 13 thẻ về những điều nhỏ ai cũng bối rối ngày đầu (nút gọi trên bàn, kéo, nước tự phục vụ, không tiền tip). Giờ bạn còn chọn được đúng ngày đi trên lịch."
+   }
+  },
+  {
    "id": "2026-11-v121",
    "date": "2026-11-10",
    "title": {
