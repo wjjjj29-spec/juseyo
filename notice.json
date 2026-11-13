@@ -1,6 +1,32 @@
 {
  "notices": [
   {
+   "id": "2026-11-v140",
+   "date": "2026-11-13",
+   "title": {
+    "en": "1.4: Roleplay + Ear training 🎭",
+    "ja": "1.4:ロールプレイ＋リスニング特訓 🎭",
+    "zh-Hant": "1.4:情境對話＋聽力特訓 🎭",
+    "es": "1.4: Juego de rol + oído 🎭",
+    "pt-BR": "1.4: Simulação + treino de ouvido 🎭",
+    "id": "1.4: Bermain peran + latihan mendengar 🎭",
+    "ms": "1.4: Main peranan + latihan pendengaran 🎭",
+    "th": "1.4: บทบาทสมมติ + ฝึกฟัง 🎭",
+    "vi": "1.4: Nhập vai + Luyện nghe 🎭"
+   },
+   "body": {
+    "en": "Practice real moments before you land: order a coffee, take a taxi, pass immigration. Staff speak first in a real Korean voice and you pick what to say back. Cafe and restaurant scenes are free. Plus Ear training in the Review tab, and smarter search in your own language.",
+    "ja": "着く前に本番の練習:コーヒーの注文、タクシー、入国審査。店員さんがネイティブ音声で話しかけ、あなたが返す一言を選びます。カフェとレストランは無料。復習タブにはリスニング特訓、検索も日本語でより賢くなりました。",
+    "zh-Hant": "出發前先演練真實情境:點咖啡、搭計程車、過入境審查。店員用真人韓語先開口,你選出該回的那句。咖啡廳和餐廳場景免費。複習分頁新增聽力特訓,用中文搜尋也更聰明了。",
+    "es": "Practica momentos reales antes de llegar: pedir un café, tomar un taxi, pasar migración. El personal habla primero con voz coreana real y tú eliges qué responder. Las escenas de cafetería y restaurante son gratis. Además, entrenamiento de oído en Repaso y búsqueda más inteligente en español.",
+    "pt-BR": "Pratique momentos reais antes de chegar: pedir um café, pegar um táxi, passar pela imigração. O atendente fala primeiro com voz coreana real e você escolhe o que responder. As cenas de café e restaurante são grátis. E ainda treino de ouvido na aba Revisão e busca mais inteligente em português.",
+    "id": "Latih momen nyata sebelum mendarat: pesan kopi, naik taksi, lewati imigrasi. Staf bicara duluan dengan suara Korea asli, kamu pilih balasannya. Adegan kafe dan restoran gratis. Plus latihan mendengar di tab Ulasan dan pencarian yang lebih pintar dalam bahasa Indonesia.",
+    "ms": "Latih situasi sebenar sebelum mendarat: pesan kopi, naik teksi, lalui imigresen. Staf bercakap dahulu dengan suara Korea sebenar, anda pilih jawapannya. Babak kafe dan restoran percuma. Juga latihan pendengaran di tab Ulang kaji dan carian lebih pintar dalam bahasa Melayu.",
+    "th": "ฝึกสถานการณ์จริงก่อนถึงเกาหลี: สั่งกาแฟ นั่งแท็กซี่ ผ่านด่านตม. พนักงานพูดก่อนด้วยเสียงคนเกาหลีจริง แล้วคุณเลือกประโยคที่จะตอบ ฉากคาเฟ่และร้านอาหารเล่นฟรี มีฝึกฟังในแท็บทบทวน และค้นหาเป็นภาษาไทยได้ฉลาดขึ้น",
+    "vi": "Luyện tình huống thật trước khi đến: gọi cà phê, đi taxi, qua cửa nhập cảnh. Nhân viên nói trước bằng giọng Hàn thật, bạn chọn câu đáp lại. Cảnh quán cà phê và nhà hàng miễn phí. Thêm Luyện nghe ở tab Ôn tập và tìm kiếm bằng tiếng Việt thông minh hơn."
+   }
+  },
+  {
    "id": "2026-11-v130",
    "date": "2026-11-11",
    "title": {
