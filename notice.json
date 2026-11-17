@@ -1,6 +1,32 @@
 {
  "notices": [
   {
+   "id": "2026-11-v150",
+   "date": "2026-11-17",
+   "title": {
+    "en": "1.5: Everything moves now ✨",
+    "ja": "1.5:アプリが動き出しました ✨",
+    "zh-Hant": "1.5:整個 App 動起來了 ✨",
+    "es": "1.5: Ahora todo se mueve ✨",
+    "pt-BR": "1.5: Agora tudo se mexe ✨",
+    "id": "1.5: Sekarang semuanya bergerak ✨",
+    "ms": "1.5: Kini semuanya bergerak ✨",
+    "th": "1.5: ทุกอย่างขยับได้แล้ว ✨",
+    "vi": "1.5: Mọi thứ đều chuyển động ✨"
+   },
+   "body": {
+    "en": "A smoother, livelier Juseyo. Answers bounce when you get them right and shake when you miss. In Roleplay, staff type before they speak, like a real chat. Play buttons pulse while the audio plays, and you get a little celebration when you ace a quiz or a scene. Plus a cleaner home screen and small fixes.",
+    "ja": "もっとなめらかで楽しいJuseyoに。正解すると答えが弾み、間違えると揺れます。ロールプレイでは店員さんが入力中…を表示してから話すので、本物のチャットのよう。再生中はボタンが波打ち、クイズやシーンを満点でクリアするとお祝いも。ホーム画面もすっきりして、細かい不具合も直しました。",
+    "zh-Hant": "更流暢、更生動的 Juseyo。答對時答案會彈跳,答錯會搖晃。情境對話裡店員會先顯示輸入中再開口,就像真的在聊天。播放時按鈕會跟著聲音跳動,測驗或情境拿滿分還有小小的慶祝。首頁也更清爽,並修正了一些小問題。",
+    "es": "Un Juseyo más fluido y con más vida. Las respuestas rebotan cuando aciertas y tiemblan cuando fallas. En el juego de rol, el personal escribe antes de hablar, como en un chat real. Los botones laten mientras suena el audio y hay una pequeña celebración cuando bordas un quiz o una escena. Además, una pantalla de inicio más limpia y pequeños arreglos.",
+    "pt-BR": "Um Juseyo mais fluido e animado. As respostas pulam quando você acerta e tremem quando erra. Na simulação, o atendente digita antes de falar, como num chat de verdade. Os botões pulsam enquanto o áudio toca e tem uma pequena comemoração quando você gabarita um quiz ou uma cena. E ainda uma tela inicial mais limpa e pequenas correções.",
+    "id": "Juseyo yang lebih halus dan hidup. Jawaban memantul saat kamu benar dan bergoyang saat salah. Di bermain peran, staf mengetik dulu sebelum bicara, seperti chat sungguhan. Tombol putar berdenyut saat audio diputar, dan ada perayaan kecil saat kamu menyelesaikan kuis atau adegan dengan sempurna. Plus layar beranda yang lebih rapi dan perbaikan kecil.",
+    "ms": "Juseyo yang lebih lancar dan meriah. Jawapan melantun apabila betul dan bergegar apabila salah. Dalam main peranan, staf menaip dahulu sebelum bercakap, seperti sembang sebenar. Butang main berdenyut semasa audio dimainkan, dan ada sambutan kecil apabila anda mendapat markah penuh dalam kuiz atau babak. Juga skrin utama yang lebih kemas dan pembaikan kecil.",
+    "th": "Juseyo ที่ลื่นไหลและมีชีวิตชีวากว่าเดิม ตอบถูกคำตอบจะเด้ง ตอบผิดจะสั่น ในบทบาทสมมติ พนักงานจะขึ้นว่ากำลังพิมพ์ก่อนพูด เหมือนแชทจริง ปุ่มเล่นจะเต้นตามเสียง และมีฉลองเล็กๆ เมื่อทำแบบทดสอบหรือฉากได้เต็ม หน้าแรกก็ดูสะอาดตาขึ้น พร้อมแก้ไขจุดเล็กๆ",
+    "vi": "Juseyo mượt mà và sinh động hơn. Đáp án nảy lên khi bạn trả lời đúng và rung khi sai. Trong phần nhập vai, nhân viên hiện đang gõ trước khi nói, như chat thật. Nút phát nhấp nháy theo âm thanh, và có màn ăn mừng nhỏ khi bạn đạt điểm tuyệt đối. Màn hình chính gọn gàng hơn và sửa một số lỗi nhỏ."
+   }
+  },
+  {
    "id": "2026-11-v140",
    "date": "2026-11-13",
    "title": {
